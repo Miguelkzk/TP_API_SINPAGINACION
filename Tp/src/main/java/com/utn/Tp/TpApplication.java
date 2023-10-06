@@ -8,7 +8,7 @@ public class TpApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TpApplication.class, args);
-		System.out.println("BOOOOOCA");
+		System.out.println("Funciona!");
 	}
 
 }
